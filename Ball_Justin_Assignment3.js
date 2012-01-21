@@ -1,4 +1,21 @@
-//alert("JavaScript works!");
+//Author: Justin Ball
+//January 19, 2012
+//Project 3 Assignment
+//Deliverable 3
+//Wireless Industry
+
+//Variables
+var TotalPhones = 100,
+
+var TotalAccessories = 100,
+// Boolean Condition
+	if [TotalPhones = TotalAccessories]	{
+	console.log("We have a lot of phones and accessories to sell.");
+	}else {
+	console.log("We have to purchase more inventory.");
+	};
+
+
 
 //JSON
 
@@ -66,13 +83,7 @@ for  (var key in rep) {
 	console.log("key: " + key + ", value: ", rep[key]);
 };
 
-//NOTE THIS IS COPY PASTE PROJECT 2
-//alert("JavaScript works!");
-//Author: Justin Ball
-//January 10, 2012
-//Project 2 Assignment
-//Deliverable 2
-//Larry in the wireless industry
+
 
 //Initial Variables
 var Rep = "Larry",

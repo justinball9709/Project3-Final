@@ -15,7 +15,13 @@ var TotalAccessories = 100,
 	console.log("We have to purchase more inventory.");
 	};
 
+//Number
+var Motorola = [ "Droid X", "Droid Razr", "Droid 3"],
+var Timetakestoactivate = [ 2, 5, 6, 8];
 
+var Activate	= function () {
+	
+}
 
 //JSON
 

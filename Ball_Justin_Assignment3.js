@@ -20,8 +20,20 @@ var Motorola = [ "Droid X", "Droid Razr", "Droid 3"],
 var Timetakestoactivate = [ 2, 5, 6, 8];
 
 var Activate	= function () {
+//String Property and Method 
+	var Phone = Motorola[Activation],
+	Time = Timetakestoactivate[Activation];
 	
-}
+	console.log( "The Motorola" + Motorola + "takes" + Timetakestoactivate + "minutes to activate.");
+	//For Loop
+	for [var initial = 0; minutesleft < Timetakestoactivate; minutes == 10]	{
+		var MinutesComplete = Time - minutesleft;
+		
+		console.log("I took" + initial + "to get everything set up" + MinutesComplete + "and working"); 
+		}
+		console.log("Here is the new" + Phone + "left.");
+	
+	
 
 //JSON
 

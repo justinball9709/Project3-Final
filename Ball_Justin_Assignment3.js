@@ -42,9 +42,9 @@ var Activate	= function () {
 	while [cla > 0] {
 	console.log("These car chargers need to be sold"); cla++;
 	};
-	
-	
 	}
+//Array and ouput.. Local Variables
+var Locations = [ "Atlanta", "New York", "Tampa" ], InvLocaton, Stores;
 
 //JSON
 

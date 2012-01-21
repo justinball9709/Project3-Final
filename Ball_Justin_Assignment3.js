@@ -33,7 +33,18 @@ var Activate	= function () {
 		}
 		console.log("Here is the new" + Phone + "left.");
 	
+	for (var Talktime = 0; Talktime < TotalPhones.length; Talktime++) {
+	SellAcc();
 	
+	var cla = 0;
+	console.log("We got some car chargers in" + cla + "was sold this week");
+	//while loop
+	while [cla > 0] {
+	console.log("These car chargers need to be sold"); cla++;
+	};
+	
+	
+	}
 
 //JSON
 

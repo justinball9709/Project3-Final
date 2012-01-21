@@ -45,6 +45,19 @@ var Activate	= function () {
 	}
 //Array and ouput.. Local Variables
 var Locations = [ "Atlanta", "New York", "Tampa" ], InvLocaton, Stores;
+console.log("This location gets most inventory." InvLocation + InvLocation.length;
+console.log(InvLocation);
+console.log(" Atlanta send out all the phones to the other markets. ");
+Locations [1] = "Is next destination";
+MainLocation = InvLocation - 1; return InvLocation;
+//Returned Values and Output
+for each [var InvLocation in InvLocation;
+console.log("Phones is being mailed.");
+};
+//Return Array // Method Mutator
+
+
+
 
 //JSON
 

@@ -1,3 +1,34 @@
+//Logic and Sequence
+//Refactoring Code
+//EXAMPLE
+
+var stopGame = false;
+
+function PlayerClass(){
+	this.hp = 10;
+	this.modifier = 0;
+	this.energy = 5;
+	this.defense = 0;
+	this.name = "";
+}
+
+function newGame(){
+	
+	var player1 = new PlayerClass();
+	player1.name = "Captain Hook";
+	var player2 = new PlayerClass();
+	player2.name = "Black Beard";
+	
+	console.log("Pirate Battle Begins!");
+	
+	console.log(player1);
+	console.log(player2);
+	
+	turn(player1,player2);
+}
+
+
+
 //Author: Justin Ball
 //January 19, 2012
 //Project 3 Assignment
